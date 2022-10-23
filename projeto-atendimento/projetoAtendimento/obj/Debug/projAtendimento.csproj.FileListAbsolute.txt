@@ -1,0 +1,9 @@
+C:\Users\Luciana\Desktop\projetoAtendimento\projetoAtendimento\bin\Debug\projAtendimento.exe.config
+C:\Users\Luciana\Desktop\projetoAtendimento\projetoAtendimento\bin\Debug\projAtendimento.exe
+C:\Users\Luciana\Desktop\projetoAtendimento\projetoAtendimento\bin\Debug\projAtendimento.pdb
+C:\Users\Luciana\Desktop\projetoAtendimento\projetoAtendimento\obj\Debug\projAtendimento.Form1.resources
+C:\Users\Luciana\Desktop\projetoAtendimento\projetoAtendimento\obj\Debug\projAtendimento.Properties.Resources.resources
+C:\Users\Luciana\Desktop\projetoAtendimento\projetoAtendimento\obj\Debug\projAtendimento.csproj.GenerateResource.cache
+C:\Users\Luciana\Desktop\projetoAtendimento\projetoAtendimento\obj\Debug\projAtendimento.csproj.CoreCompileInputs.cache
+C:\Users\Luciana\Desktop\projetoAtendimento\projetoAtendimento\obj\Debug\projAtendimento.exe
+C:\Users\Luciana\Desktop\projetoAtendimento\projetoAtendimento\obj\Debug\projAtendimento.pdb
