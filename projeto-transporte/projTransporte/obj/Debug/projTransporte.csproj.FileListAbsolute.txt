@@ -5,3 +5,10 @@ C:\Users\Luciana\Desktop\EDI14\projeto-transporte\projTransporte\projTransporte\
 C:\Users\Luciana\Desktop\EDI14\projeto-transporte\projTransporte\projTransporte\obj\Debug\projTransporte.csproj.CoreCompileInputs.cache
 C:\Users\Luciana\Desktop\EDI14\projeto-transporte\projTransporte\projTransporte\obj\Debug\projTransporte.exe
 C:\Users\Luciana\Desktop\EDI14\projeto-transporte\projTransporte\projTransporte\obj\Debug\projTransporte.pdb
+C:\Users\Luciana\Desktop\EDI14\projeto-transporte\projTransporte\obj\Debug\projTransporte.csprojAssemblyReference.cache
+C:\Users\Luciana\Desktop\EDI14\projeto-transporte\projTransporte\obj\Debug\projTransporte.csproj.CoreCompileInputs.cache
+C:\Users\Luciana\Desktop\EDI14\projeto-transporte\projTransporte\obj\Debug\projTransporte.exe
+C:\Users\Luciana\Desktop\EDI14\projeto-transporte\projTransporte\obj\Debug\projTransporte.pdb
+C:\Users\Luciana\Desktop\EDI14\projeto-transporte\projTransporte\bin\Debug\projTransporte.exe.config
+C:\Users\Luciana\Desktop\EDI14\projeto-transporte\projTransporte\bin\Debug\projTransporte.exe
+C:\Users\Luciana\Desktop\EDI14\projeto-transporte\projTransporte\bin\Debug\projTransporte.pdb
